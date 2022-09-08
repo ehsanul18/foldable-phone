@@ -25,6 +25,7 @@ Foldable phones have succeeded in rapidly taking over the market. A report from 
 | Foldable    | 7.1            | 0.5%              | 27.6           | 1.8%              | 69.9%          |  
 | Smartphone  | 1341.8         | 99.5%             | 1491.3         | 98.2%             | 3.1%           |  
 | Total       | 1348.9         | 100.0%            | 1518.9         | 100.0%            | 3.5%           |   
+
 Source: IDC, Worldwide Foldable Smartphone Forecast, 2021-2025, Feb 2022.
 
 
