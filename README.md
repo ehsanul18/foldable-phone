@@ -1,4 +1,4 @@
-# Foldable Phones: The Next Golden Era of Mobile Phones
+# Foldable Phones: The Next Golden Era of Smartphones
 
 </br>
 
