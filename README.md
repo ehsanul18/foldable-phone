@@ -47,7 +47,7 @@ Let us finally look at what we should keep in mind as developers when creating a
 **Screen Continuity:** Seamless transition in screen before and after folding. To ensure a great user experience, during the transition from fold to unfold, the app will receive the configuration change. 
 
 <p align="center">
-  <img src="https://developer.android.com/static/images/guide/topics/large-screens/foldables/fold-unfold.gif" width="80%" />
+  <img src="https://github.com/ehsanul18/foldable-phone/blob/main/image/fold-unfold.gif" width="80%" />
 </p>
 
 For this, the developer needs to make sure the app properly supports runtime configuration changes. For example, the following manifest code declares an activity that handles both screen orientation changes and keyboard availability change:
